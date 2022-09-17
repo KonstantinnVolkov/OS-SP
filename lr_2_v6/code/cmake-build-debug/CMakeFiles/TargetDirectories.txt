@@ -1,0 +1,3 @@
+/home/konstantin/Work/Labs/4thSem/OSandSP/lr_2/code/cmake-build-debug/CMakeFiles/code.dir
+/home/konstantin/Work/Labs/4thSem/OSandSP/lr_2/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/konstantin/Work/Labs/4thSem/OSandSP/lr_2/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
